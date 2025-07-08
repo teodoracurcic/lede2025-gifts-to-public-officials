@@ -1,7 +1,5 @@
 # Filed, Shelved, Disclosed
 
-**Project link:** [https://github.com/teodoracurcic/lede2025-gifts-to-public-officials](https://github.com/teodoracurcic/lede2025-gifts-to-public-officials)
-
 This project is part of my work for the [Lede Program](https://ledeprogram.com) at Columbia Journalism School. It investigates patterns and inconsistencies in the official records of gifts received by Serbian public officials between 2015 and 2024.
 
 Public officials in Serbia are legally required to report gifts received during their official duties. These declarations are published by the Anti-Corruption Agency in a public register. This project analyzes the dataset across several dimensions: volume over time, gender patterns, types and values of gifts, retention status, missing information, and outliers.
@@ -59,7 +57,7 @@ The raw data was compiled from multiple PDF files, each representing a different
 ## Output
 
 The final analysis is structured as a visual data story, with each section corresponding to a research question. The project is available at:  
-[https://teodoracurcic.github.io/lede-2025-gifts](https://teodoracurcic.github.io/lede-2025-gifts)
+[https://teodoracurcic.github.io/lede2025-gifts-to-public-officials/](https://teodoracurcic.github.io/lede2025-gifts-to-public-officials/)
 
 ## Author
 
